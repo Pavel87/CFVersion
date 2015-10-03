@@ -1,0 +1,8 @@
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\CFversion\CFversion\bin\Release\CFversion.exe
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\CFversion\CFversion\bin\Release\CFversion.pdb
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\CFversion\CFversion\obj\Release\ResolveAssemblyReference.cache
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\CFversion\CFversion\obj\Release\CFversion.Form1.resources
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\CFversion\CFversion\obj\Release\CFversion.Properties.Resources.resources
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\CFversion\CFversion\obj\Release\CFversion.csproj.GenerateResource.Cache
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\CFversion\CFversion\obj\Release\CFversion.exe
+C:\Users\tqm837\Documents\Visual Studio 2008\Projects\CFversion\CFversion\obj\Release\CFversion.pdb
